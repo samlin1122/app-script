@@ -14,7 +14,7 @@ jobs:
       - name: Install and Build
         run: |
           yarn install
-          yarn run build --base=/github-api/
+          yarn run build --base=/app-script/
         env:
           REACT_APP_SPREAD_SHEET_ID: ${{ secrets.SPREAD_SHEET_ID }}
 
