@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MSLG",
+  "name": "[ 麻省理工計分板 ]",
   "icons": [
     {
       "src": "favicon.ico",
